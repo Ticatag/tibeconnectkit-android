@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:gravity="center_horizontal"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/battery_textview"/>
+    <TextView
+        android:gravity="center_horizontal"
+        android:text=""
+        android:textSize="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rssi_textview"/>
+    <Button
+        android:gravity="center_horizontal"
+        android:text="Ping Beacon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ping_beacon_button" />
+    <TextView
+        android:gravity="center_horizontal"
+        android:text=""
+        android:textSize="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/temperature_textview"/>
+
+    <Switch
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button mode"
+        android:switchPadding="10dp"
+        android:id="@+id/button_mode_switch"/>
+
+    <TextView
+        android:gravity="center_horizontal"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/accelerometer_textview"/>
+    <TextView
+        android:gravity="center_horizontal"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/firmware_version_textview"/>
+
+</LinearLayout>
