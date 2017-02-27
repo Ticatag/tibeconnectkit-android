@@ -6,6 +6,16 @@ You can buy this button online [here](http://www.ticatag.com/categorie-produit/b
 
 ## About TiBeConnect Kit for Android 
 
+This Kit provides all the capabilities to manage the TiBeConnect button:
+- Scan buttons around you
+- Button connection / reconnection
+- Button RSSI
+- Button buzzer
+- Button temperature change notification
+- Button accelerometer 3 axis notifications
+- Button clicks (simple, double, long press) change notification
+- Mode button : with this mode the button is placed in standby and is awake only when movement is detected on the button. This feature will drastically increase button battery life.
+- Button firmware version
 
 ## Getting started
 A complete working example is available [Here](https://github.com/Ticatag/tibeconnectkit-android)
