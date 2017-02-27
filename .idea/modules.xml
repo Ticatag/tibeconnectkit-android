@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tibeconnectkit-android.iml" filepath="$PROJECT_DIR$/tibeconnectkit-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tibeconnectkit-debug/tibeconnectkit-debug.iml" filepath="$PROJECT_DIR$/tibeconnectkit-debug/tibeconnectkit-debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/tibeconnectkit-debug/tibeconnectkit-debug.iml" filepath="$PROJECT_DIR$/tibeconnectkit-debug/tibeconnectkit-debug.iml" />
       <module fileurl="file://$PROJECT_DIR$/tibeconnectkit-demo-android.iml" filepath="$PROJECT_DIR$/tibeconnectkit-demo-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/tibeconnectkitdemo-android.iml" filepath="$PROJECT_DIR$/tibeconnectkitdemo-android.iml" />
